@@ -5,4 +5,4 @@ folium>=0.12.0
 plotly>=5.0.0
 matplotlib>=3.5.0
 ipyleaflet>=0.17.0
-PyGeoModel==1.0.15
+PyGeoModel==1.0.16
